@@ -1,0 +1,2 @@
+rootProject.name = "Fused-Location-Provider-API"
+include ':app'
